@@ -7,6 +7,9 @@
     "build": "cross-env NODE_ENV=production node server",
     "dev": "cross-env NODE_ENV=development nodemon server"
   },
+  "engines": {
+    "node": "16.13.2"
+  },
   "keywords": [],
   "author": "Ikram Ul Haq",
   "license": "ISC",
